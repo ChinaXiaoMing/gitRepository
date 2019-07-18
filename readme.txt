@@ -3,4 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 test diff function.
 fixed bug.
-fixed bug 100.
+dev branch change something.
+=================================
+dev change.
