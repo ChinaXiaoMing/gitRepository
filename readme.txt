@@ -4,5 +4,4 @@ Git has a mutable index called stage.
 test diff function.
 fixed bug.
 dev branch change something.
-=================================
 dev change.
